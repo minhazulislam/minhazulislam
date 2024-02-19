@@ -14,7 +14,7 @@ Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.a
 
 # Projects
 
-- National occurrence of de facto reuse (DRINCS) modeling
+- National occurrence of de facto reuse (DRINCS) modeling in ArcGIS
 - PFAS Incidence in Nation's Consumable Supply (Water Research Foundation Project - 5082). [Publication](https://doi.org/10.1021/acs.estlett.3c00185)
 - United States Phosphorus Mapping [[Science and Technologies for Phosphorus Sustainability (STEPS)](https://steps-center.org/)]
 - Developing GIS based vegetated swale algorithm for TDOT Highways in ArcGIS environment. Master's Project. [MS Thesis](http://login.ezproxy1.lib.asu.edu/login?url=https://www.proquest.com/dissertations-theses/development-gis-based-algorithm-delineate-median/docview/2445995494/se-2?accountid=4485)
