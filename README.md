@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Current Lab
+![Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
 
 # Projects
 
@@ -23,7 +25,7 @@ National occurrence of de facto reuse (DRINCS) modeling
 
 PFAS Incidence in Nation's Consumable Supply
 
-United States Phosphorus Mapping
+United States Phosphorus Mapping (![STEPS](https://steps-center.org/))
 
 # Publications
 1. Saha, Probal, Minhazul Islam, Jarin Tasneem Oyshi, Roufa Khanum, and Ainun Nishat. "A sustainability analysis on the trends and frequency of the channel flow of a carp breeding river against human interventions and governing public–private partnership (PPP) as adaptation." SN Applied Sciences 2 (2020): 1-17.
