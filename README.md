@@ -27,6 +27,7 @@ Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.a
 - Developing GIS based vegetated swale algorithm for TDOT Highways in ArcGIS environment. Master's Project. [MS Thesis](http://login.ezproxy1.lib.asu.edu/login?url=https://www.proquest.com/dissertations-theses/development-gis-based-algorithm-delineate-median/docview/2445995494/se-2?accountid=4485)
 - Bias correction of TRMM satellite rainfall data using R programming.
 - Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
+- Assessment of stormwater runoff from chittagong using GeoSWMM [BSc Thesis]
 
 # Programming and software skills
 
