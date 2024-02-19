@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+## Introduction
+
 **minhazulislam/minhazulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Projects
+
+National occurrence of de facto reuse (DRINCS) modeling
+
+PFAS Incidence in Nation's Consumable Supply
+
+United States Phosphours Mapping
