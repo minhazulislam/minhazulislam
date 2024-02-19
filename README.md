@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 National occurrence of de facto reuse (DRINCS) modeling
 
-PFAS Incidence in Nation's Consumable Supply
+PFAS Incidence in Nation's Consumable Supply. [Publication](https://doi.org/10.1021/acs.estlett.3c00185)
 
 United States Phosphorus Mapping ([STEPS](https://steps-center.org/))
+
+Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
 
 # Publications
 1. Saha, Probal, Minhazul Islam, Jarin Tasneem Oyshi, Roufa Khanum, and Ainun Nishat. "A sustainability analysis on the trends and frequency of the channel flow of a carp breeding river against human interventions and governing public–private partnership (PPP) as adaptation." SN Applied Sciences 2 (2020): 1-17. [https://doi.org/10.1007/s42452-020-2766-4](https://doi.org/10.1007/s42452-020-2766-4)
