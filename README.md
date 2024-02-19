@@ -34,10 +34,10 @@ Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.a
 - Python
 - R
 - MATLAB
-- HECRAS
-- HECHMS
-- Soil and Water Assessment Tool (SWAT)
-- EPA SWMM
+- [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/)
+- [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)
+- [Soil and Water Assessment Tool (SWAT)](https://swat.tamu.edu/)
+- [EPA-SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm)
 - AutoCAD
 - Latex
 
