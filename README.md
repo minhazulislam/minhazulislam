@@ -25,3 +25,5 @@ PFAS Incidence in Nation's Consumable Supply
 
 United States Phosphorus Mapping
 
+# Publications
+1. Saha, Probal, Minhazul Islam, Jarin Tasneem Oyshi, Roufa Khanum, and Ainun Nishat. "A sustainability analysis on the trends and frequency of the channel flow of a carp breeding river against human interventions and governing public–private partnership (PPP) as adaptation." SN Applied Sciences 2 (2020): 1-17. ![https://doi.org/10.1007/s42452-020-2766-4](https://doi.org/10.1007/s42452-020-2766-4)
