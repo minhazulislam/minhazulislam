@@ -3,12 +3,13 @@
 # Introduction
 
 - 🌱 I’m currently learning ...
-- Water Resources Engineer
-- Civil and Environmental Engineer
+- Civil, environmental and sustainable Engineering
+- Water resources engineer
 - GIS data analyst and model developer
-- River Watershed Hydrologist
-- Stormwater management modleing in urban catchment
-- Machine Learning and AI
+- River watershed modeling
+- Stormwater management modeling in urban catchment
+- Machine learning
+- Satellite remote sensing data analytics
 
 # Current Lab
 Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
