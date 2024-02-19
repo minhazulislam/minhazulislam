@@ -12,7 +12,7 @@
 
 - National occurrence of de facto reuse (DRINCS) modeling
 - PFAS Incidence in Nation's Consumable Supply. [Publication](https://doi.org/10.1021/acs.estlett.3c00185)
-- United States Phosphorus Mapping ([STEPS](https://steps-center.org/))
+- United States Phosphorus Mapping [[Science and Technologies for Phosphorus Sustainability (STEPS)](https://steps-center.org/)]
 - Developing GIS based vegetated swale algorithm for TDOT Highways in ArcGIS environment. Master's Project. [MS Thesis](http://login.ezproxy1.lib.asu.edu/login?url=https://www.proquest.com/dissertations-theses/development-gis-based-algorithm-delineate-median/docview/2445995494/se-2?accountid=4485)
 - Bias correction of TRMM satellite rainfall data using R programming.
 - Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
