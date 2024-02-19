@@ -28,6 +28,18 @@ Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.a
 - Bias correction of TRMM satellite rainfall data using R programming.
 - Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
 
+# Programming and software skills
+
+- ArcGIS / QGIS
+- Python
+- R
+- MATLAB
+- HECRAS
+- HECHMS
+- Soil and Water Assessment Tool (SWAT)
+- EPA SWMM
+- AutoCAD
+
 # Publications
 1. Saha, Probal, Minhazul Islam, Jarin Tasneem Oyshi, Roufa Khanum, and Ainun Nishat. "A sustainability analysis on the trends and frequency of the channel flow of a carp breeding river against human interventions and governing public–private partnership (PPP) as adaptation." SN Applied Sciences 2 (2020): 1-17. [https://doi.org/10.1007/s42452-020-2766-4](https://doi.org/10.1007/s42452-020-2766-4)
 2. Saha, P., Islam, M., Oyshi, J.T., Khanum, R. and Nishat, A., 2019. A sustainability study of the flow regulation impacts by dams in a carp breeding river using the hydrodynamic model and building block analysis. SN Applied Sciences, 1, pp.1-20. [https://doi.org/10.1007/s42452-019-1417-0](https://doi.org/10.1007/s42452-019-1417-0)
