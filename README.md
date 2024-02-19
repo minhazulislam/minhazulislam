@@ -16,9 +16,11 @@ PFAS Incidence in Nation's Consumable Supply. [Publication](https://doi.org/10.1
 
 United States Phosphorus Mapping ([STEPS](https://steps-center.org/))
 
-Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
+Developing GIS based vegetated swale algorithm for TDOT Highways in ArcGIS environment. Master's Project. [MS Thesis](http://login.ezproxy1.lib.asu.edu/login?url=https://www.proquest.com/dissertations-theses/development-gis-based-algorithm-delineate-median/docview/2445995494/se-2?accountid=4485)
 
 Bias correction of TRMM satellite rainfall data using R programming. 
+
+Environmental Impact Assessment of Built Infrastructure on Carp Fish Breeding in the Halda River, Bangladesh, Using ArcSWAT Modeling [Publication 1](https://doi.org/10.1007/s42452-020-2766-4) [Publication 2](https://doi.org/10.1007/s42452-019-1417-0)
 
 # Publications
 1. Saha, Probal, Minhazul Islam, Jarin Tasneem Oyshi, Roufa Khanum, and Ainun Nishat. "A sustainability analysis on the trends and frequency of the channel flow of a carp breeding river against human interventions and governing public–private partnership (PPP) as adaptation." SN Applied Sciences 2 (2020): 1-17. [https://doi.org/10.1007/s42452-020-2766-4](https://doi.org/10.1007/s42452-020-2766-4)
