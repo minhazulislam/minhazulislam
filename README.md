@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-
 # Introduction
 
 - 🌱 I’m currently learning ...
 
 # Current Lab
-[Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
+Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
+
+# Previous Labs
+- [TechWARMS](https://www.techwarms.org/old-team)
+- [Climate Simulation Lab, IWFM, BUET - Flash Flood Early Warning System (FFEWS) Project](https://ffews.github.io/about.html)
+- [Centre for Climate Change and Environmental Research (C3ER), BRAC University](https://www.bracu.ac.bd/academics/centres-and-initiatives/c3er)
 
 # Projects
 
