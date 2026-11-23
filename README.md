@@ -22,11 +22,6 @@ Postdoctoral Research Scholar at [Rice-Boayue Lab Group](https://www.riceboayuel
 - [Climate Simulation Lab, IWFM, BUET - Flash Flood Early Warning System (FFEWS) Project](https://ffews.github.io/about.html)
 - [Centre for Climate Change and Environmental Research (C3ER), BRAC University](https://www.bracu.ac.bd/academics/centres-and-initiatives/c3er)
 
-# Current Projects
-
-- PFAS Source Attribution Modeling
-- Hyperspectral Imaging of Water Quality
-
 # Research Projects
 
 - Nationwide de facto wastewater reuse assessment (DRINCS 2.0) across all 6,881 US surface water intakes, modeled in ArcGIS. [Publication](https://doi.org/10.1021/acs.est.6c09442)
