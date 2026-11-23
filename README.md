@@ -12,9 +12,10 @@
 - Satellite remote sensing data analytics
 
 # Current Lab
-Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
+Postdoctoral Research Scholar at [Rice-Boayue Lab Group](https://www.riceboayuelab.com/)
 
 # Previous Labs
+- Graduate Research Associate at [Westerhoff Lab](https://westerhoff.engineering.asu.edu/)
 - [TechWARMS](https://www.techwarms.org/old-team)
 - [Climate Simulation Lab, IWFM, BUET - Flash Flood Early Warning System (FFEWS) Project](https://ffews.github.io/about.html)
 - [Centre for Climate Change and Environmental Research (C3ER), BRAC University](https://www.bracu.ac.bd/academics/centres-and-initiatives/c3er)
